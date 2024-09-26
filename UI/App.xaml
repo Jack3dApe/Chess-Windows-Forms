@@ -1,0 +1,41 @@
+﻿<Application x:Class="UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:UI"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="StrokeColor">#1f363d</SolidColorBrush>
+        <SolidColorBrush x:Key="FillColor">#40798c</SolidColorBrush>
+        <SolidColorBrush x:Key="TextColor">#f5f1ed</SolidColorBrush>
+        <SolidColorBrush x:Key="BtnColor">#cd8b76</SolidColorBrush>
+
+        <Style TargetType="Border" x:Key="BorderStyle">
+            <Setter Property="BorderThickness" Value="4"/>
+            <Setter Property="BorderBrush" Value="{StaticResource StrokeColor}"/>
+            <Setter Property="Background" Value="{StaticResource FillColor}"/>
+            <Setter Property="CornerRadius" Value="10"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="TexteStyle">
+            <Setter Property="FontFamily" Value="Segoes UI Light"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
+        </Style>
+
+        <Style TargetType="Button" x:Key="BtnStyle">
+            <Setter Property="FontFamily" Value="Segoe UI Light"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="BorderBrush" Value="{StaticResource StrokeColor}"/>
+            <Setter Property="Background" Value="{StaticResource BtnColor}"/>
+            <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Style.Resources>
+
+        </Style>
+    </Application.Resources>
+</Application>

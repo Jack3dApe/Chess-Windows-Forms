@@ -1,0 +1,11 @@
+C:\Users\Vasile\source\repos\Chess\ChessPieces\bin\Release\net8.0\ChessPieces.deps.json
+C:\Users\Vasile\source\repos\Chess\ChessPieces\bin\Release\net8.0\ChessPieces.dll
+C:\Users\Vasile\source\repos\Chess\ChessPieces\bin\Release\net8.0\ChessPieces.pdb
+C:\Users\Vasile\source\repos\Chess\ChessPieces\obj\Release\net8.0\ChessPieces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasile\source\repos\Chess\ChessPieces\obj\Release\net8.0\ChessPieces.AssemblyInfoInputs.cache
+C:\Users\Vasile\source\repos\Chess\ChessPieces\obj\Release\net8.0\ChessPieces.AssemblyInfo.cs
+C:\Users\Vasile\source\repos\Chess\ChessPieces\obj\Release\net8.0\ChessPieces.csproj.CoreCompileInputs.cache
+C:\Users\Vasile\source\repos\Chess\ChessPieces\obj\Release\net8.0\ChessPieces.dll
+C:\Users\Vasile\source\repos\Chess\ChessPieces\obj\Release\net8.0\refint\ChessPieces.dll
+C:\Users\Vasile\source\repos\Chess\ChessPieces\obj\Release\net8.0\ChessPieces.pdb
+C:\Users\Vasile\source\repos\Chess\ChessPieces\obj\Release\net8.0\ref\ChessPieces.dll
